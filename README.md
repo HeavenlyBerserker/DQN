@@ -1,2 +1,2 @@
-# dqn
+#DQN
 My implementation of DQNs
